@@ -6,6 +6,7 @@ function App() {
   return (
     <>
      <h1>Arif khattak</h1>
+     <p>I am learning React.jsx</p>
     </>
   )
 }
